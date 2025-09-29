@@ -8,6 +8,8 @@ description: 'This resource contains lecture slides on minimum spanning tree, ch
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/ab6b4912baa83b513c87961588cdaad3_lec14.pdf
 file_size: 577423
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the six assignments from the class, and solution
   files.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

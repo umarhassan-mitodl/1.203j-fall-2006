@@ -7,6 +7,8 @@ description: 'This resource contains lecture slides on functions of random varia
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/8c599f65b0021b17365175f46eb78cd7_lec2.pdf
 file_size: 58068
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

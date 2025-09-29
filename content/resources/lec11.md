@@ -6,6 +6,8 @@ description: This resource contains lecture slides on congestion pricing, econom
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/28a2a732df4ba263a80883efef879091_lec11.pdf
 file_size: 62185
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: 'This resource contains problem set solutions for logistical and tr
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/64127e5daa6a8530d7878648d1624932_ps1sol.pdf
 file_size: 189199
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

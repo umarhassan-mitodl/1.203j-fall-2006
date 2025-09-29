@@ -6,6 +6,8 @@ description: 'This resource contains lecture slides on setup: hypercube queueing
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/9045b3b7f44a4cfe54159b9210cf3449_lec13.pdf
 file_size: 123022
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

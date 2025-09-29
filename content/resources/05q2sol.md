@@ -5,6 +5,8 @@ description: This resource contains solutions to a quiz on logistics and transpo
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/6d2580fdb5b5b74ca448f6906ba12015_05q2sol.pdf
 file_size: 157856
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

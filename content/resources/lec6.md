@@ -6,6 +6,8 @@ description: 'This resource contains lecture slides on M/M/m, M/M/8, M/M/1: fini
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/b87afb500444dda0ccaa899445d90b17_lec6.pdf
 file_size: 70034
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

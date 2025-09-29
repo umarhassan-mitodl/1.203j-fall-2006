@@ -8,6 +8,8 @@ description: 'This resource contains lecture slides on M/G/1: a simple example, 
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/aece89b6e5d7f4d41d10a3dd1fa503b0_lec8.pdf
 file_size: 102407
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
