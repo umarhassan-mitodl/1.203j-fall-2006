@@ -6,8 +6,6 @@ description: 'This resource contains lecture slides on generic heuristics for th
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/6e544151abff66194a6881eb93dcb189_lec15.pdf
 file_size: 92336
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

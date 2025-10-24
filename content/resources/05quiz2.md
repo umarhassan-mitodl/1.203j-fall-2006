@@ -5,8 +5,6 @@ description: This resource contains a quiz on logistics and transportation plann
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/51442ea0a5d3d0d6b5e2b611fe467078_05quiz2.pdf
 file_size: 104331
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

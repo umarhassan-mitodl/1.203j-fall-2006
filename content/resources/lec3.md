@@ -5,8 +5,6 @@ description: This resource contains lecture slides on functions of random variab
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/5fb3828ccf1c35471a4ae82804586d50_lec3.pdf
 file_size: 217881
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

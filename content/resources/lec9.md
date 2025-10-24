@@ -7,8 +7,6 @@ description: This resource contains lecture slides on a fundamental result for q
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/36d90014e175b04466290678ce09bfbf_lec9.pdf
 file_size: 56238
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
