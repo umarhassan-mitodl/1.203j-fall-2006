@@ -20,7 +20,7 @@ The textbook will be:
 
 Larson, Richard C., and Amedeo R. Odoni. _Urban Operations Research_. Belmont, MA: Dynamic Ideas, 2007. ISBN: 0975914634.
 
-The prior edition of the textbook (Prentice Hall, 1981) is [available online](http://web.mit.edu/urban_or_book/www/book/index.html).
+The prior edition of the textbook (Prentice Hall, 1981) is {{% resource_link "f2b92f5b-09b0-4e9d-8585-cd9d071f7169" "available online" %}}.
 
 Grading
 -------
